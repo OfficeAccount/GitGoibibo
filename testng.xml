@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="false" name="Suite">
+<listeners>
+			<listener class-name="HomePage.Listeners" />
+</listeners>
+
+	<test name="Test1">
+		<classes>
+			<class name="HomePage.TC_01Test" />
+		</classes>
+	</test>
+	<test name="Test2">
+		<classes>
+			<class name="HomePage.TC_02Test" />
+		</classes>
+	</test>
+	<test name="Test3">
+		<classes>
+			<class name="HomePage.TC_03Test" />
+		</classes>
+	</test>
+	<test name="Test4">
+		<classes>
+			<class name="HomePage.TC_04Test" />
+		</classes>
+	</test>
+	<test name="Test5">
+		<classes>
+			<class name="HomePage.TC_05Test" />
+		</classes>
+	</test>
+	<test name="Test6">
+		<classes>
+			<class name="HomePage.TC_06Test" />
+		</classes>
+	</test>
+	<test name="Test7">
+		<classes>
+			<class name="HomePage.TC_07Test" />
+		</classes>
+	</test>
+	<test name="Test8">
+		<classes>
+			<class name="HomePage.TC_08Test" />
+		</classes>
+	</test>
+	<test name="Test9">
+		<classes>
+			<class name="HomePage.TC_09Test" />
+		</classes>
+	</test>
+	<test name="Test10">
+		<classes>
+			<class name="HomePage.TC_10Test" />
+		</classes>
+	</test>
+	<test name="Test11">
+		<classes>
+			<class name="HomePage.TC_11Test" />
+		</classes>
+	</test>
+	
+</suite> <!-- Suite -->

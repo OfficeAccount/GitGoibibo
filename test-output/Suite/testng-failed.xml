@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test1">
+    <classes>
+      <class name="HomePage.TC_01Test"/>
+    </classes>
+  </test> <!-- Test1 -->
+  <test name="Test2">
+    <classes>
+      <class name="HomePage.TC_02Test"/>
+    </classes>
+  </test> <!-- Test2 -->
+  <test name="Test3">
+    <classes>
+      <class name="HomePage.TC_03Test"/>
+    </classes>
+  </test> <!-- Test3 -->
+  <test name="Test4">
+    <classes>
+      <class name="HomePage.TC_04Test"/>
+    </classes>
+  </test> <!-- Test4 -->
+  <test name="Test5">
+    <classes>
+      <class name="HomePage.TC_05Test"/>
+    </classes>
+  </test> <!-- Test5 -->
+  <test name="Test6">
+    <classes>
+      <class name="HomePage.TC_06Test"/>
+    </classes>
+  </test> <!-- Test6 -->
+  <test name="Test7">
+    <classes>
+      <class name="HomePage.TC_07Test"/>
+    </classes>
+  </test> <!-- Test7 -->
+  <test name="Test8">
+    <classes>
+      <class name="HomePage.TC_08Test"/>
+    </classes>
+  </test> <!-- Test8 -->
+  <test name="Test9">
+    <classes>
+      <class name="HomePage.TC_09Test"/>
+    </classes>
+  </test> <!-- Test9 -->
+  <test name="Test10">
+    <classes>
+      <class name="HomePage.TC_10Test"/>
+    </classes>
+  </test> <!-- Test10 -->
+  <test name="Test11">
+    <classes>
+      <class name="HomePage.TC_11Test"/>
+    </classes>
+  </test> <!-- Test11 -->
+  <test name="Test7(failed)">
+    <classes>
+      <class name="HomePage.TC_08Test">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- HomePage.TC_08Test -->
+      <class name="HomePage.TC_01Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_01Test -->
+      <class name="HomePage.TC_10Test">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- HomePage.TC_10Test -->
+      <class name="HomePage.TC_02Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_02Test -->
+      <class name="HomePage.TC_03Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_03Test -->
+      <class name="HomePage.TC_09Test">
+        <methods>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_09Test -->
+      <class name="HomePage.TC_05Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_05Test -->
+      <class name="HomePage.TC_11Test">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- HomePage.TC_11Test -->
+      <class name="HomePage.TC_06Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_06Test -->
+      <class name="HomePage.TC_04Test">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- HomePage.TC_04Test -->
+      <class name="HomePage.TC_07Test">
+        <methods>
+          <include name="footerLinks"/>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_07Test -->
+    </classes>
+  </test> <!-- Test7(failed) -->
+  <test name="Test10(failed)">
+    <classes>
+      <class name="HomePage.TC_08Test">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- HomePage.TC_08Test -->
+      <class name="HomePage.TC_01Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_01Test -->
+      <class name="HomePage.TC_10Test">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="HoverProducts"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- HomePage.TC_10Test -->
+      <class name="HomePage.TC_02Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_02Test -->
+      <class name="HomePage.TC_03Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_03Test -->
+      <class name="HomePage.TC_09Test">
+        <methods>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_09Test -->
+      <class name="HomePage.TC_05Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_05Test -->
+      <class name="HomePage.TC_11Test">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- HomePage.TC_11Test -->
+      <class name="HomePage.TC_06Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_06Test -->
+      <class name="HomePage.TC_04Test">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- HomePage.TC_04Test -->
+      <class name="HomePage.TC_07Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- HomePage.TC_07Test -->
+    </classes>
+  </test> <!-- Test10(failed) -->
+</suite> <!-- Failed suite [Suite] -->

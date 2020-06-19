@@ -1,0 +1,202 @@
+09:25:48.414 [main] INFO  resources.Base - Driver is initialized for 1st test case
+09:26:30.224 [main] INFO  resources.Base - 	SignIn tested 
+09:26:32.326 [main] INFO  resources.Base - Driver closed for 1st test case
+09:26:42.354 [main] INFO  resources.Base - Driver is initialized for 2nd test case
+09:26:45.117 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/ Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+09:26:46.300 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/trains/check-pnr-status/ PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking
+09:26:47.503 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/trains/check-train-running-status/ IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo
+09:26:50.239 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/review-and-rating/ Goibibo Reviews and Ratings – Share your experience, Post Reviews and Ratings
+09:28:55.303 [main] INFO  resources.Base - Driver is initialized for 3rd test case
+09:28:57.122 [main] INFO  resources.Base - 	Directed successfully to HomePage
+09:28:59.454 [main] INFO  resources.Base - Driver is closed for 3rd test case
+09:29:14.603 [main] INFO  resources.Base - Driver is initialized for 4th test case
+09:29:23.600 [main] INFO  resources.Base - 	Goibibo CDwindow-3173ED28D744F08EA8DF0AE1D0633093 CDwindow-4B88C3F47DEEDB26FCEF5AA3D661700D
+09:29:26.307 [main] INFO  resources.Base - 	Goibibo CDwindow-256D18F0DE184C6BF14D7FEDD1EC132B CDwindow-4B88C3F47DEEDB26FCEF5AA3D661700D
+09:29:27.800 [main] INFO  resources.Base - 	Goibibo CDwindow-7B58F2BCBE91DEBCF593C8BDBD65E8EA CDwindow-4B88C3F47DEEDB26FCEF5AA3D661700D
+09:29:29.009 [main] INFO  resources.Base - 	Goibibo CDwindow-CC28CD100FFF9FD0922CDF8C1F0D05E3 CDwindow-4B88C3F47DEEDB26FCEF5AA3D661700D
+09:29:30.290 [main] INFO  resources.Base - 	Goibibo CDwindow-EE40667B0110176CC20D3464BD80C183 CDwindow-4B88C3F47DEEDB26FCEF5AA3D661700D
+09:29:31.442 [main] INFO  resources.Base - 	Goibibo CDwindow-7673D49FD22AB5FB54A7AA2CA39F19A9 CDwindow-4B88C3F47DEEDB26FCEF5AA3D661700D
+09:29:31.525 [main] INFO  resources.Base - 	Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+09:29:32.072 [main] INFO  resources.Base - Driver is closed for 4th test case
+09:29:41.636 [main] INFO  resources.Base - Driver is initialized for 5th test case
+09:29:45.905 [main] INFO  resources.Base - 	You are not logged in. Click here to login or search using Booking ID / Mobile No.
+09:29:48.499 [main] INFO  resources.Base - Driver is closed for 5th test case
+09:29:57.450 [main] INFO  resources.Base - Driver is initialized for 6th test case
+09:30:05.150 [main] INFO  resources.Base - 	Navigated correctly to goCash section
+09:30:07.256 [main] INFO  resources.Base - Driver is closed for 6th test case
+09:30:19.392 [main] INFO  resources.Base - Driver is initialized for 7th test case
+09:30:29.564 [main] INFO  resources.Base - 	Title:-  Know Your Credit Shell Details
+09:30:31.978 [main] INFO  resources.Base - 	Title:-  Hotels Near Me: Get Best Deals on Hotels near your location – Goibibo
+09:30:33.087 [main] INFO  resources.Base - 	Title:-  Top 633 Hotel Chains in India - Goibibo
+09:30:34.206 [main] INFO  resources.Base - 	Title:-  Airports in India, List of India Airports - Goibibo
+09:30:35.474 [main] INFO  resources.Base - 	Title:-  City Bus Route | City Bus Service, Booking | Book Bus Tickets - Goibibo
+09:30:40.105 [main] INFO  resources.Base - 	Title:-  Gostays Branded Hotels, Affordable Budget Hotels – Goibibo
+09:30:42.563 [main] INFO  resources.Base - 	Title:-  Flight Schedule | Flight Status India | Flight Timings - Goibibo
+09:30:43.669 [main] INFO  resources.Base - 	Title:-  IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo
+09:30:45.603 [main] INFO  resources.Base - 	Title:-  Cheap Flights, Cheap Air Tickets at Lowest Price – Goibibo
+09:30:47.426 [main] INFO  resources.Base - 	Title:-  Best places to visit in the world, World Travel Guide – Goibibo
+09:30:49.555 [main] INFO  resources.Base - 	Title:-  City Airline Routes
+09:30:50.964 [main] INFO  resources.Base - 	Title:-  Airport in India, Domestic and International Airports - Goibibo
+09:30:52.255 [main] INFO  resources.Base - 	Title:-  Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo
+09:30:53.861 [main] INFO  resources.Base - 	Title:-  Airline Tickets, Book Indian Airlines and International Airlines @ Goibibo
+09:30:56.535 [main] INFO  resources.Base - 	Title:-  Top Hotels in India: Book best Indian hotels at cheap price from Goibibo
+09:30:57.963 [main] INFO  resources.Base - 	Title:-  Airport Taxi, Book Airport Cabs with upto 10% off from Goibibo
+09:30:59.120 [main] INFO  resources.Base - 	Title:-  PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking
+09:31:00.566 [main] INFO  resources.Base - 	Title:-  Bus Routes | Bus Schedule for City to City Bus Service - Goibibo
+09:31:01.684 [main] INFO  resources.Base - 	Title:-  Backstage
+09:31:03.504 [main] INFO  resources.Base - 	Title:-  Goibibo - YouTube
+09:31:05.086 [main] INFO  resources.Base - 	Title:-  Goibibo Mobile – Download app for iOS, Android and Windows Phone
+09:31:06.515 [main] INFO  resources.Base - 	Title:-  Csr Policy
+09:31:07.818 [main] INFO  resources.Base - 	Title:-  ibibo Group- Career at ibibo
+09:31:09.105 [main] INFO  resources.Base - 	Title:-  Goibibo
+09:31:10.468 [main] INFO  resources.Base - 	Title:-  privacy policy | Goibibo
+09:31:11.591 [main] INFO  resources.Base - 	Title:-  User Agreement
+09:31:13.033 [main] INFO  resources.Base - 	Title:-  Terms of Services
+09:31:14.194 [main] INFO  resources.Base - 	Title:-  About Goibibo - Fastest Growing Travel Company - www.goibibo.com
+09:31:15.324 [main] INFO  resources.Base - 	Title:-  India Travel Guide, Destination Planner, Places to Visit in India-Goibibo
+09:31:16.611 [main] INFO  resources.Base - 	Title:-  Goibibo route planner - Find best routes, maps and distances
+09:31:17.890 [main] INFO  resources.Base - 	Title:-  IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation
+09:31:18.996 [main] INFO  resources.Base - 	Title:-  Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking
+09:31:20.484 [main] INFO  resources.Base - 	Title:-  Bus Booking - Online Bus Ticket Booking of all Bus types at best prices
+09:31:21.591 [main] INFO  resources.Base - 	Title:-  Cheap International Flight Tickets, International Flights Booking - Goibibo
+09:31:23.032 [main] INFO  resources.Base - 	Title:-  Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo
+09:31:24.203 [main] INFO  resources.Base - 	Title:-  International Hotel booking ,Best Deals Worldwide Hotels-Goibibo
+09:31:25.332 [main] INFO  resources.Base - 	Title:-  Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+09:31:41.442 [main] INFO  resources.Base - Driver is initialized for 8th test case
+09:31:41.763 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+09:31:41.884 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+09:31:41.981 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+09:31:42.108 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+09:31:42.220 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+09:31:42.313 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 0.5; bottom: 2px; color: rgb(45, 103, 178);
+09:31:42.328 [main] INFO  resources.Base - 	Hoevered through all forward links successfully
+09:31:42.614 [main] INFO  resources.Base - 	position: absolute; right: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+09:31:42.729 [main] INFO  resources.Base - 	position: absolute; right: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+09:31:43.136 [main] INFO  resources.Base - 	position: absolute; right: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+09:31:45.287 [main] INFO  resources.Base - Driver is closed for 8th test case
+09:31:56.402 [main] INFO  resources.Base - Driver is initialized for 9th test case
+09:32:00.397 [main] INFO  resources.Base - 	Navigated to Offers section
+09:32:00.592 [main] INFO  resources.Base - 	Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+09:32:00.727 [main] INFO  resources.Base - Driver is closed for 9th test case
+09:32:11.085 [main] INFO  resources.Base - Driver is initialized for 10th test case
+09:32:13.660 [main] INFO  resources.Base - Driver is closed for 10th test case
+09:32:24.284 [main] INFO  resources.Base - Driver is initialized for 11th test case
+09:32:28.989 [main] INFO  resources.Base - 	Title:- Awesome Features
+09:32:28.989 [main] INFO  resources.Base - 	Navigated to Features section
+09:32:29.088 [main] INFO  resources.Base - 	Title:- Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+12:09:41.311 [main] INFO  resources.Base - Driver is initialized for 1st test case
+12:10:03.576 [main] INFO  resources.Base - Driver closed for 1st test case
+12:10:38.807 [main] INFO  resources.Base - Driver is initialized for 1st test case
+12:11:01.059 [main] INFO  resources.Base - Driver closed for 1st test case
+12:20:27.639 [main] INFO  resources.Base - Driver is initialized for 1st test case
+12:20:49.875 [main] INFO  resources.Base - Driver closed for 1st test case
+12:28:38.763 [main] INFO  resources.Base - Driver is initialized for 1st test case
+12:29:00.956 [main] INFO  resources.Base - Driver closed for 1st test case
+12:57:10.295 [main] INFO  resources.Base - Driver is initialized for 1st test case
+12:57:32.078 [main] INFO  resources.Base - 	SignIn tested 
+12:57:53.301 [main] INFO  resources.Base - 	SignIn tested 
+12:57:55.423 [main] INFO  resources.Base - Driver closed for 1st test case
+12:58:08.058 [main] INFO  resources.Base - Driver is initialized for 2nd test case
+12:58:10.324 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/ Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+12:58:11.511 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/trains/check-pnr-status/ PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking
+12:58:12.721 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/trains/check-train-running-status/ IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo
+12:58:14.957 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/review-and-rating/ Goibibo Reviews and Ratings – Share your experience, Post Reviews and Ratings
+12:58:17.103 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/offers/ Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo
+12:58:28.497 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/routeplanner/ Goibibo route planner - Find best routes, maps and distances
+12:58:29.596 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/ask/ Goibibo Ask – Largest Indian Travel Community
+12:58:30.773 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/destinations/ India Travel Guide, Destination Planner, Places to Visit in India-Goibibo
+12:58:32.099 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/mobile/ Goibibo Mobile – Download app for iOS, Android and Windows Phone
+12:58:33.287 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/international-flights/ Cheap International Flight Tickets, International Flights Booking - Goibibo
+12:58:34.388 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/visa/ 
+12:58:35.586 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/cars/ Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking
+12:58:36.692 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/trains/ IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation
+12:58:37.779 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/bus/#home Bus Booking - Online Bus Ticket Booking of all Bus types at best prices
+12:58:38.877 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/gostays/ Gostays Branded Hotels, Affordable Budget Hotels – Goibibo
+12:58:40.042 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/hotels/ Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+12:58:41.150 [main] INFO  resources.Base - 	please check this link: https://www.goibibo.com/flights/ Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo
+12:58:41.220 [main] INFO  resources.Base - Driver is closed for 2nd test case
+12:58:52.217 [main] INFO  resources.Base - Driver is initialized for 3rd test case
+12:58:53.860 [main] INFO  resources.Base - 	Directed successfully to HomePage
+12:58:56.045 [main] INFO  resources.Base - Driver is closed for 3rd test case
+12:59:08.052 [main] INFO  resources.Base - Driver is initialized for 4th test case
+12:59:18.536 [main] INFO  resources.Base - 	Goibibo CDwindow-0B170599CD4E18F0C67FE3581C937A2E CDwindow-56E3BB28172F140CBF296E8E25CEA778
+12:59:20.130 [main] INFO  resources.Base - 	Goibibo CDwindow-86248D5829F18A62306563EC3E540536 CDwindow-56E3BB28172F140CBF296E8E25CEA778
+12:59:21.456 [main] INFO  resources.Base - 	Goibibo CDwindow-1A05C3548B76587472E7CDAB9D12022C CDwindow-56E3BB28172F140CBF296E8E25CEA778
+12:59:22.763 [main] INFO  resources.Base - 	Goibibo CDwindow-77CF3D473E81B411C7537AA20E299B3E CDwindow-56E3BB28172F140CBF296E8E25CEA778
+12:59:24.066 [main] INFO  resources.Base - 	Goibibo CDwindow-1A61398D9E5548055C19DB6E56BF0A1F CDwindow-56E3BB28172F140CBF296E8E25CEA778
+12:59:25.199 [main] INFO  resources.Base - 	Goibibo CDwindow-38F06D6C9581378A6C09046FA8D5BEAF CDwindow-56E3BB28172F140CBF296E8E25CEA778
+12:59:25.366 [main] INFO  resources.Base - 	Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+12:59:27.498 [main] INFO  resources.Base - Driver is closed for 4th test case
+12:59:40.969 [main] INFO  resources.Base - Driver is initialized for 5th test case
+12:59:44.623 [main] INFO  resources.Base - 	You are not logged in. Click here to login or search using Booking ID / Mobile No.
+12:59:46.718 [main] INFO  resources.Base - Driver is closed for 5th test case
+12:59:58.225 [main] INFO  resources.Base - Driver is initialized for 6th test case
+13:00:05.420 [main] INFO  resources.Base - 	Navigated correctly to goCash section
+13:00:07.797 [main] INFO  resources.Base - Driver is closed for 6th test case
+13:00:19.210 [main] INFO  resources.Base - Driver is initialized for 7th test case
+13:00:28.766 [main] INFO  resources.Base - 	Title:-  Know Your Credit Shell Details
+13:00:30.031 [main] INFO  resources.Base - 	Title:-  Hotels Near Me: Get Best Deals on Hotels near your location – Goibibo
+13:00:31.219 [main] INFO  resources.Base - 	Title:-  Top 633 Hotel Chains in India - Goibibo
+13:00:32.514 [main] INFO  resources.Base - 	Title:-  Airports in India, List of India Airports - Goibibo
+13:00:38.301 [main] INFO  resources.Base - 	Title:-  City Bus Route | City Bus Service, Booking | Book Bus Tickets - Goibibo
+13:00:42.363 [main] INFO  resources.Base - 	Title:-  Gostays Branded Hotels, Affordable Budget Hotels – Goibibo
+13:00:44.132 [main] INFO  resources.Base - 	Title:-  Flight Schedule | Flight Status India | Flight Timings - Goibibo
+13:00:45.278 [main] INFO  resources.Base - 	Title:-  IRCTC Live Train Running Status – Check Train Status with Live Train Enquiry on Goibibo
+13:00:47.719 [main] INFO  resources.Base - 	Title:-  Cheap Flights, Cheap Air Tickets at Lowest Price – Goibibo
+13:00:49.394 [main] INFO  resources.Base - 	Title:-  Best places to visit in the world, World Travel Guide – Goibibo
+13:00:57.225 [main] INFO  resources.Base - 	Title:-  City Airline Routes
+13:00:58.724 [main] INFO  resources.Base - 	Title:-  Airport in India, Domestic and International Airports - Goibibo
+13:01:00.019 [main] INFO  resources.Base - 	Title:-  Best travel deals in Jun 2020, Discount coupons, Promo codes - Goibibo
+13:01:01.601 [main] INFO  resources.Base - 	Title:-  Airline Tickets, Book Indian Airlines and International Airlines @ Goibibo
+13:01:02.947 [main] INFO  resources.Base - 	Title:-  Top Hotels in India: Book best Indian hotels at cheap price from Goibibo
+13:01:04.226 [main] INFO  resources.Base - 	Title:-  Airport Taxi, Book Airport Cabs with upto 10% off from Goibibo
+13:01:05.675 [main] INFO  resources.Base - 	Title:-  PNR Status – Check PNR Status, Get Live Status of IRCTC Train Booking
+13:01:06.977 [main] INFO  resources.Base - 	Title:-  Bus Routes | Bus Schedule for City to City Bus Service - Goibibo
+13:01:08.175 [main] INFO  resources.Base - 	Title:-  Backstage
+13:01:10.064 [main] INFO  resources.Base - 	Title:-  Goibibo - YouTube
+13:01:11.623 [main] INFO  resources.Base - 	Title:-  Goibibo Mobile – Download app for iOS, Android and Windows Phone
+13:01:12.905 [main] INFO  resources.Base - 	Title:-  Csr Policy
+13:01:14.237 [main] INFO  resources.Base - 	Title:-  ibibo Group- Career at ibibo
+13:01:15.477 [main] INFO  resources.Base - 	Title:-  Goibibo
+13:01:16.611 [main] INFO  resources.Base - 	Title:-  privacy policy | Goibibo
+13:01:17.754 [main] INFO  resources.Base - 	Title:-  User Agreement
+13:01:18.857 [main] INFO  resources.Base - 	Title:-  Terms of Services
+13:01:19.993 [main] INFO  resources.Base - 	Title:-  About Goibibo - Fastest Growing Travel Company - www.goibibo.com
+13:01:21.141 [main] INFO  resources.Base - 	Title:-  India Travel Guide, Destination Planner, Places to Visit in India-Goibibo
+13:01:22.282 [main] INFO  resources.Base - 	Title:-  Goibibo route planner - Find best routes, maps and distances
+13:01:23.889 [main] INFO  resources.Base - 	Title:-  IRCTC Train Ticket Booking, Book Train Tickets, Indian Railways Train Enquiry & Reservation
+13:01:25.017 [main] INFO  resources.Base - 	Title:-  Cab Booking - Outstation cabs, Car Rental, Taxi & Cars Booking
+13:01:26.153 [main] INFO  resources.Base - 	Title:-  Bus Booking - Online Bus Ticket Booking of all Bus types at best prices
+13:01:27.255 [main] INFO  resources.Base - 	Title:-  Cheap International Flight Tickets, International Flights Booking - Goibibo
+13:01:28.747 [main] INFO  resources.Base - 	Title:-  Flight Tickets, Flights Booking at Lowest Airfare, Book Air Tickets-Goibibo
+13:01:29.870 [main] INFO  resources.Base - 	Title:-  International Hotel booking ,Best Deals Worldwide Hotels-Goibibo
+13:01:31.020 [main] INFO  resources.Base - 	Title:-  Online Hotel Booking | Book Cheap, Budget and Luxury Hotels -Goibibo
+13:01:40.772 [main] INFO  resources.Base - Driver is initialized for 8th test case
+13:01:41.532 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+13:01:41.682 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+13:01:41.831 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+13:01:41.941 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+13:01:42.044 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+13:01:42.169 [main] INFO  resources.Base - 	position: absolute; left: 50px; opacity: 0.5; bottom: 2px; color: rgb(45, 103, 178);
+13:01:42.183 [main] INFO  resources.Base - 	Hoevered through all forward links successfully
+13:01:42.382 [main] INFO  resources.Base - 	position: absolute; right: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+13:01:42.477 [main] INFO  resources.Base - 	position: absolute; right: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+13:01:42.573 [main] INFO  resources.Base - 	position: absolute; right: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+13:01:42.745 [main] INFO  resources.Base - 	position: absolute; right: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+13:01:42.840 [main] INFO  resources.Base - 	position: absolute; right: 50px; opacity: 1; bottom: 2px; color: rgb(45, 103, 178);
+13:01:43.340 [main] INFO  resources.Base - 	position: absolute; right: 50px; opacity: 0.5; bottom: 2px; color: rgb(45, 103, 178);
+13:01:43.358 [main] INFO  resources.Base - 	Hovered through all back links successfully
+13:01:45.480 [main] INFO  resources.Base - Driver is closed for 8th test case
+13:01:57.202 [main] INFO  resources.Base - Driver is initialized for 9th test case
+13:01:59.838 [main] INFO  resources.Base - 	Navigated to Offers section
+13:02:00.518 [main] INFO  resources.Base - 	Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+13:02:00.657 [main] INFO  resources.Base - Driver is closed for 9th test case
+13:02:13.947 [main] INFO  resources.Base - Driver is initialized for 10th test case
+13:02:14.752 [main] INFO  resources.Base - Driver is closed for 10th test case
+13:15:14.405 [main] INFO  resources.Base - Driver is initialized for 1st test case
+13:15:34.548 [main] INFO  resources.Base - SignIn
+13:15:34.551 [main] INFO  resources.Base - SignIn
+13:15:36.638 [main] INFO  resources.Base - Driver closed for 1st test case
+13:18:02.876 [main] INFO  resources.Base - Driver is initialized for 1st test case
+13:18:45.290 [main] INFO  resources.Base - 	Signout tested 
+13:18:47.404 [main] INFO  resources.Base - Driver closed for 1st test case
