@@ -32,6 +32,7 @@ public class TC_01Test extends Base {
 		TC_01 tc02 = new TC_01(driver);
 		tc02.siginLink();
 		System.out.println(driver.getWindowHandle());
+		System.out.println("made some changes");
 		driver.switchTo().frame("authiframe");
 		System.out.println(driver.getWindowHandle());
 		tc02.mobileNumber();
